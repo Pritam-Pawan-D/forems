@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "category": "food",
+    "title": "Food Fest 2022",
+    "description": "Best food ever",
+    "location": "Chennai",
+    "pets": 0,
+    "extras": {
+      "catering": true,
+      "music": true
+    }
+  }
+]
